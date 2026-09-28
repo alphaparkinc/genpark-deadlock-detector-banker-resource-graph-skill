@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-deadlock-detector-banker-resource-graph-skill
+name: genpark-deadlock-detector-banker-resource-graph-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
